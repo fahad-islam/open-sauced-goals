@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "quasarframework/quasar",
+    "stargazers_count": 22659,
+    "open_issues_count": 450,
+    "forks_count": 3053
+  },
+  {
     "full_name": "fahad-islam/APE-Coin-DAO",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -13,14 +19,14 @@
   },
   {
     "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
-    "stargazers_count": 7114,
+    "stargazers_count": 7161,
     "open_issues_count": 30,
-    "forks_count": 1678
+    "forks_count": 1697
   },
   {
     "full_name": "aliyr/Nodejs-Developer-Roadmap",
-    "stargazers_count": 4547,
-    "open_issues_count": 7,
+    "stargazers_count": 4553,
+    "open_issues_count": 5,
     "forks_count": 577
   },
   {
