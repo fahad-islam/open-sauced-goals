@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "drizzle-team/drizzle-orm",
+    "stargazers_count": 8936,
+    "open_issues_count": 195,
+    "forks_count": 152
+  },
+  {
     "full_name": "chamatt/chamatt",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "quasarframework/quasar",
-    "stargazers_count": 23592,
-    "open_issues_count": 478,
-    "forks_count": 3199
+    "stargazers_count": 23607,
+    "open_issues_count": 486,
+    "forks_count": 3206
   },
   {
     "full_name": "fahad-islam/APE-Coin-DAO",
@@ -19,19 +25,19 @@
   },
   {
     "full_name": "AlaaMezian/NodeJs-backend-structure",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 12,
     "forks_count": 114
   },
   {
     "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
-    "stargazers_count": 8883,
+    "stargazers_count": 8918,
     "open_issues_count": 39,
-    "forks_count": 2186
+    "forks_count": 2195
   },
   {
     "full_name": "aliyr/Nodejs-Developer-Roadmap",
-    "stargazers_count": 4623,
+    "stargazers_count": 4625,
     "open_issues_count": 6,
     "forks_count": 585
   },
