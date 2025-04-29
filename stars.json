@@ -1,8 +1,8 @@
 [
   {
     "full_name": "gleam-lang/gleam",
-    "stargazers_count": 19179,
-    "open_issues_count": 171,
+    "stargazers_count": 19188,
+    "open_issues_count": 177,
     "forks_count": 812
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 27698,
-    "open_issues_count": 1472,
-    "forks_count": 838
+    "stargazers_count": 27770,
+    "open_issues_count": 1479,
+    "forks_count": 845
   },
   {
     "full_name": "chamatt/chamatt",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "quasarframework/quasar",
-    "stargazers_count": 26509,
-    "open_issues_count": 643,
-    "forks_count": 3596
+    "stargazers_count": 26522,
+    "open_issues_count": 645,
+    "forks_count": 3599
   },
   {
     "full_name": "fahad-islam/APE-Coin-DAO",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
-    "stargazers_count": 13246,
+    "stargazers_count": 13257,
     "open_issues_count": 99,
     "forks_count": 3173
   },
@@ -57,7 +57,7 @@
     "full_name": "aliyr/Nodejs-Developer-Roadmap",
     "stargazers_count": 4826,
     "open_issues_count": 6,
-    "forks_count": 588
+    "forks_count": 589
   },
   {
     "full_name": "fahad-islam/terminal--based-todo-app",
