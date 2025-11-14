@@ -1,9 +1,9 @@
 [
   {
     "full_name": "gleam-lang/gleam",
-    "stargazers_count": 20587,
-    "open_issues_count": 215,
-    "forks_count": 886
+    "stargazers_count": 20607,
+    "open_issues_count": 222,
+    "forks_count": 888
   },
   {
     "full_name": "Livog/Payload.3.0.Starter",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 31171,
-    "open_issues_count": 1803,
-    "forks_count": 1069
+    "stargazers_count": 31235,
+    "open_issues_count": 1804,
+    "forks_count": 1072
   },
   {
     "full_name": "chamatt/chamatt",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "quasarframework/quasar",
-    "stargazers_count": 26954,
+    "stargazers_count": 26958,
     "open_issues_count": 661,
     "forks_count": 3664
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
-    "stargazers_count": 13824,
+    "stargazers_count": 13834,
     "open_issues_count": 103,
-    "forks_count": 3264
+    "forks_count": 3265
   },
   {
     "full_name": "aliyr/Nodejs-Developer-Roadmap",
